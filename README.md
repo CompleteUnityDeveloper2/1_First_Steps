@@ -22,3 +22,10 @@ Here are the lectures of the course for this section...
 4. How to find previous versions if needed.
 5. For Mac users only: downloading Visual Studio Mac.
 6. Later: change Unity to use VS on Mac.
+
+### 2 How To Use This Course
+1. How Unity and Visual Studio relate.
+2. How to ask good questions & get the best help.
+3. Use the Q&A system for questions that need answers.
+4. Use the Community site for sharing work and ideas.
+5. Use our Discord chat server for live chat.
