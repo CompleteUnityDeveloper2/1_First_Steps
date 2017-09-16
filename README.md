@@ -29,3 +29,10 @@ Here are the lectures of the course for this section...
 3. Use the Q&A system for questions that need answers.
 4. Use the Community site for sharing work and ideas.
 5. Use our Discord chat server for live chat.
+
+### 3 Introducing Unity
+1. How to setup and save a new project.
+2. Pick 3D (you can change and add asset packs later).
+3. Introducing Hierarchy, Scene, and Project tabs (default view)
+4. Build a simple block car.
+5. Save, screenshot & share.
