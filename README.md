@@ -36,3 +36,10 @@ Here are the lectures of the course for this section...
 3. Introducing Hierarchy, Scene, and Project tabs (default view)
 4. Build a simple block car.
 5. Save, screenshot & share.
+
+### 4 The Wonder Of Prefabs
+1. Parent and child GameObjects and transforms.
+2. What, why and how to prefab everything.
+3. Build a 2nd object (e.g. bike, person, street lamp, tree).
+4. Compose a small scene & share.
+5. Save and explore the files on disc.
