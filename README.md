@@ -43,3 +43,11 @@ Here are the lectures of the course for this section...
 3. Build a 2nd object (e.g. bike, person, street lamp, tree).
 4. Compose a small scene & share.
 5. Save and explore the files on disc.
+
+### 5 Introducing Visual Studio
+1. How an IDE helps us to write code.
+2. How to create a script from the Unity editor.
+3. How to chose which IDE Unity uses*.
+4. Setting your font size.
+5. How to attach a .cs script to a GameObject.
+* Particularly how to make Unity use Visual Studio on a Mac.
