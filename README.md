@@ -51,3 +51,8 @@ Here are the lectures of the course for this section...
 4. Setting your font size.
 5. How to attach a .cs script to a GameObject.
 * Particularly how to make Unity use Visual Studio on a Mac.
+
+### 6 Section 1 Conclusion
+1. What you learned in this section.
+2. Please make the effort to engage in our community.
+3. Start the next section right away.
