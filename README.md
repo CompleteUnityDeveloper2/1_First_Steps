@@ -52,6 +52,13 @@ Here are the lectures of the course for this section...
 5. How to attach a .cs script to a GameObject.
 * Particularly how to make Unity use Visual Studio on a Mac.
 
+### 5b Instructor Hangout 1.1 ###
+1. How these hangouts work.
+2. Thanks for your introductions.
+3. MonoDevelop vs Visual Studio.
+4. Mac vs PC considerations.
+5. Answering some common questions.
+
 ### 6 Section 1 Conclusion
 1. What you learned in this section.
 2. Please make the effort to engage in our community.
